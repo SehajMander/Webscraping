@@ -1,0 +1,6 @@
+2024/03/22-15:51:36.060 400c Reusing MANIFEST C:\Users\HP\Desktop\webScraping\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/03/22-15:51:36.063 400c Recovering log #40
+2024/03/22-15:51:36.068 400c Reusing old log C:\Users\HP\Desktop\webScraping\tmp\Default\Local Storage\leveldb/000040.log 
+2024/03/22-15:52:37.074 5a80 Level-0 table #44: started
+2024/03/22-15:52:37.091 5a80 Level-0 table #44: 15820 bytes OK
+2024/03/22-15:52:37.094 5a80 Delete type=0 #40
