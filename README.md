@@ -7,6 +7,7 @@ Welcome to the Puppeteer Web Scraping Learning Repository! Here, you'll find a c
 - `index.js`: Script file containing fundamental Puppeteer scraping techniques for scraping product information from Amazon.
 - `app1.js`: Scraping script for extracting data from "ScrapeThisSite".
 - `app2.js`: Scraping script for gathering quotes from "QuotesToScrape".
+- `linkedin.js`: Script for logging into LinkedIn, performing a search, and scraping posts (work in progress).
 
 ## Getting Started
 
@@ -36,6 +37,9 @@ node app1.js
 ```
 ```bash
 node app2.js
+```
+```bash
+node linkedin.js
 ```
 
 ## Contribution
