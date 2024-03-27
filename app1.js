@@ -36,3 +36,4 @@ import puppeteer from 'puppeteer';
     //closing the browser
     await browser.close();
 })();
+
